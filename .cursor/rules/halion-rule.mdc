@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+- 해당 프로젝트는 react-native, expo를 사용해 개발하고 있어. https://docs.expo.dev/ docs를 활용해서 expo 개발 환경에 알맞게 구현해줘.
+- 스타일링은 nativewind 라이브러리를 이용해 진행할 예정이야. https://www.nativewind.dev/docs 해당 독스를 구현에 참고해줘.
