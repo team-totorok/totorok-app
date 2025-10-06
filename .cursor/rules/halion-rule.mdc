@@ -3,3 +3,6 @@ alwaysApply: true
 ---
 - 해당 프로젝트는 react-native, expo를 사용해 개발하고 있어. https://docs.expo.dev/ docs를 활용해서 expo 개발 환경에 알맞게 구현해줘.
 - 스타일링은 nativewind 라이브러리를 이용해 진행할 예정이야. https://www.nativewind.dev/docs 해당 독스를 구현에 참고해줘.
+- src/app에서 페이지 라우팅을 구분함.
+- 공통 코드들은 src/common에, 도메인별로 src/domain에 필요한 폴더를 만들어 코드를 보관함.
+- 각 폴더에는 /components, /hooks, /apis, /utils 등이 존재할 수 있음.
